@@ -8,7 +8,8 @@ Milton Eduardo Sosa
 
 ## Enunciado
 
-Armar una cyberkillchain usando técnicas de la matriz de Att&ck para un escenario relacionado a tu trabajo práctico
+Armar una cyberkillchain usando técnicas de la matriz de Att&ck para un escenario relacionado a tu trabajo práctico.  
+![chain](https://raw.githubusercontent.com/snorkman88/ceiot_base/master/CIBS/ejercicio_1_ciberkillchain_ataque/kill-chain-netskope.webp)
 
 ## Datos trabajo práctico
 
@@ -26,7 +27,7 @@ La arquitectura monolitica adoptada en la CESE, al no seguir premisas de escalab
 
 El nuevo diagrama de bloques de los BES a desarrollar se presenta en la Figura 1. Los servicios se ejecutarán cada uno de manera individual en un contenedor de entornos Docker y orquestado a traves de un archivo docker-compose, otorgando así modularidad y escalabilidad.
 
-![Diagrama de bloques del sistema](nueva_arquitectura_con_ingestion_REDIS.jpg)
+![Diagrama de bloques del sistema](https://raw.githubusercontent.com/snorkman88/ceiot_base/master/CIBS/ejercicio_1_ciberkillchain_ataque/nueva_arquitectura_con_ingestion_REDIS.jpg)
 
 ## Resolución
 
